@@ -2,7 +2,6 @@ use inventory;
 
 INSERT INTO product (name, category, price, sku)
 VALUES
-('Galaxy S21', 'Mobile', 799.99, 'SKU001'),
 ('iPhone 13', 'Mobile', 999.99, 'SKU002'),
 ('Samsung QLED TV', 'TV and AV', 1499.99, 'SKU003'),
 ('LG OLED TV', 'TV and AV', 1999.99, 'SKU004'),
